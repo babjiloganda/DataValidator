@@ -9,3 +9,7 @@ This framework leverage the ability to test your spark datasets. The framework o
 The Rule Engine: Data Validator is basically built using the drools rule engine which offers various level data validation on and error handling.
 
 Note: The Framework build is still in progress and will be adding all the capabilities soon. 
+
+Test Locally:
+
+Run com.data.validator.batch.ExecuteMain.main
